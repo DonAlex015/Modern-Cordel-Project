@@ -6,7 +6,7 @@ This project was taken from Professor Gustavo Guanabara's
 Curso em Vídeo 
 
 hosted website
-
+https://donalex015.github.io/Modern-Cordel-Project/
 
 Video Course Channel
 https://youtube.com/@CursoemVideo
